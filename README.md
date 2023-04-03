@@ -6,7 +6,7 @@ j'ai d'abord travailler en tant que DevFullstack chez le Groupe CIMES puis chez 
 - Cofondateur de StarkUpDabtion, groupe de projet tutoree qui c'est transforme en association pour le maintien de l'application James
 - Cofondateur de Hunger, groupe de projet tutoree qui a vocation à se transformer en entreprise
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,vue,gcp,firebase,mongodb,docker,figma,xd,ai,pr,ae,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,symfony,angular,react,vue,gcp,firebase,mongodb,docker,figma,xd,ai,pr,ae,ps)](https://skillicons.dev)
 
 - 🔭 Je travaille actuellement sur Uncooked
 - 📫 Contact: aurelien_marc@icloud.com
